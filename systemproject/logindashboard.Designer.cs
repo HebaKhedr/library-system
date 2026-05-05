@@ -110,6 +110,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Student";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.radioButton1_KeyDown);
             // 
             // radioButton1
             // 
@@ -125,6 +126,7 @@
             this.radioButton1.Text = "Staff";
             this.radioButton1.UseVisualStyleBackColor = true;
             this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            this.radioButton1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.radioButton1_KeyDown);
             // 
             // label4
             // 
@@ -162,6 +164,9 @@
             this.textBox1.Size = new System.Drawing.Size(250, 29);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "Enter Your Name                        ";
+            this.textBox1.Enter += new System.EventHandler(this.textBox1_Enter);
+            this.textBox1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox1_KeyDown);
+            this.textBox1.Leave += new System.EventHandler(this.textBox1_Leave);
             // 
             // textBox2
             // 
@@ -173,6 +178,8 @@
             this.textBox2.Size = new System.Drawing.Size(250, 29);
             this.textBox2.TabIndex = 1;
             this.textBox2.Text = "Enter Your Password                   ";
+            this.textBox2.Enter += new System.EventHandler(this.textBox2_Enter);
+            this.textBox2.Leave += new System.EventHandler(this.textBox2_Leave);
             // 
             // loginbutton
             // 
@@ -189,6 +196,7 @@
             this.loginbutton.TabIndex = 2;
             this.loginbutton.Text = "Login";
             this.loginbutton.UseVisualStyleBackColor = false;
+            this.loginbutton.Click += new System.EventHandler(this.loginbutton_Click);
             // 
             // cancelbutton
             // 
@@ -206,6 +214,7 @@
             this.cancelbutton.TabIndex = 3;
             this.cancelbutton.Text = "Cancel";
             this.cancelbutton.UseVisualStyleBackColor = false;
+            this.cancelbutton.Click += new System.EventHandler(this.cancelbutton_Click);
             // 
             // panel1
             // 
@@ -238,6 +247,7 @@
             this.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.Name = "logindashboard";
             this.Text = "logindashboard";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Resize += new System.EventHandler(this.Form1_Resize);
             this.groupBox1.ResumeLayout(false);

@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "D:\\Source_d\\repos\\systemproject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|d:\\source_d\\repos\\systemproject\\systemproject\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|d:\\source_d\\repos\\systemproject\\systemproject\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\logo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|d:\\source_d\\repos\\systemproject\\systemproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\archivedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\archivedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\archivedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\archivedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\logindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\logindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|d:\\source_d\\repos\\systemproject\\systemproject\\logindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\logindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\attendancedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\attendancedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|D:\\Source_d\\repos\\systemproject\\systemproject\\attendancedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F23E69-CD22-4C30-A592-1FCD3D058E30}|systemproject\\systemproject.csproj|solutionrelative:systemproject\\attendancedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +58,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "logo.cs",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\logo.cs",
+              "RelativeDocumentMoniker": "systemproject\\logo.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\logo.cs",
+              "RelativeToolTip": "systemproject\\logo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:31:04.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "logo.cs [Design]",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\logo.cs",
+              "RelativeDocumentMoniker": "systemproject\\logo.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\logo.cs [Design]",
+              "RelativeToolTip": "systemproject\\logo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:30:59.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Archivedashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\Archivedashboard.cs",
+              "RelativeDocumentMoniker": "systemproject\\Archivedashboard.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\Archivedashboard.cs [Design]",
+              "RelativeToolTip": "systemproject\\Archivedashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:50:01.373Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Studentdashboard.cs",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\Studentdashboard.cs",
+              "RelativeDocumentMoniker": "systemproject\\Studentdashboard.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\Studentdashboard.cs",
+              "RelativeToolTip": "systemproject\\Studentdashboard.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:49:38.148Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -33,24 +119,25 @@
               "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\Studentdashboard.cs [Design]",
               "RelativeToolTip": "systemproject\\Studentdashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T19:44:12.447Z",
+              "WhenOpened": "2026-05-05T19:49:34.156Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\Program.cs",
-              "RelativeDocumentMoniker": "systemproject\\Program.cs",
-              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\Program.cs",
-              "RelativeToolTip": "systemproject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Archivedashboard.cs",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\Archivedashboard.cs",
+              "RelativeDocumentMoniker": "systemproject\\Archivedashboard.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\Archivedashboard.cs",
+              "RelativeToolTip": "systemproject\\Archivedashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T22:34:58.692Z"
+              "WhenOpened": "2026-05-05T19:50:04.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "admindashboard.cs [Design]",
               "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\admindashboard.cs",
               "RelativeDocumentMoniker": "systemproject\\admindashboard.cs",
@@ -59,6 +146,67 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T15:28:26.33Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admindashboard.cs",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\admindashboard.cs",
+              "RelativeDocumentMoniker": "systemproject\\admindashboard.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\admindashboard.cs",
+              "RelativeToolTip": "systemproject\\admindashboard.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAcwFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:31:14.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "logindashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\logindashboard.cs",
+              "RelativeDocumentMoniker": "systemproject\\logindashboard.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\logindashboard.cs [Design]",
+              "RelativeToolTip": "systemproject\\logindashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:52:04.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "logindashboard.cs",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\logindashboard.cs",
+              "RelativeDocumentMoniker": "systemproject\\logindashboard.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\logindashboard.cs",
+              "RelativeToolTip": "systemproject\\logindashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:52:06.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attendancedashboard.cs",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\Attendancedashboard.cs",
+              "RelativeDocumentMoniker": "systemproject\\Attendancedashboard.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\Attendancedashboard.cs",
+              "RelativeToolTip": "systemproject\\Attendancedashboard.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAnwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:49:05.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Attendancedashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Source_d\\repos\\systemproject\\systemproject\\Attendancedashboard.cs",
+              "RelativeDocumentMoniker": "systemproject\\Attendancedashboard.cs",
+              "ToolTip": "D:\\Source_d\\repos\\systemproject\\systemproject\\Attendancedashboard.cs [Design]",
+              "RelativeToolTip": "systemproject\\Attendancedashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:34:33.761Z"
             }
           ]
         }

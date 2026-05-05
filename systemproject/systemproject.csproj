@@ -33,6 +33,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.8.0.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.8.0\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
     <Reference Include="System">
       <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
     </Reference>
@@ -46,6 +51,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
     <Reference Include="WinFormsApp1">
       <HintPath>..\..\..\library-mangement-system-main\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll</HintPath>
     </Reference>
@@ -117,6 +123,7 @@
     <EmbeddedResource Include="Studentdashboard.resx">
       <DependentUpon>Studentdashboard.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -219,6 +226,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\1240352.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\520-5203283_png-file-svg-attendance-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\520-5203283_png-file-svg-attendance-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\520-5203283_png-file-svg-attendance-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3441733-200.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

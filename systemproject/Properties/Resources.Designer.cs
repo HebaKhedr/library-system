@@ -83,6 +83,46 @@ namespace systemproject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _3441733_200 {
+            get {
+                object obj = ResourceManager.GetObject("3441733-200", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _520_5203283_png_file_svg_attendance_icon {
+            get {
+                object obj = ResourceManager.GetObject("520-5203283_png-file-svg-attendance-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _520_5203283_png_file_svg_attendance_icon1 {
+            get {
+                object obj = ResourceManager.GetObject("520-5203283_png-file-svg-attendance-icon1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _520_5203283_png_file_svg_attendance_icon2 {
+            get {
+                object obj = ResourceManager.GetObject("520-5203283_png-file-svg-attendance-icon2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _5404928 {
             get {
                 object obj = ResourceManager.GetObject("5404928", resourceCulture);

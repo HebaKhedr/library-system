@@ -16,5 +16,17 @@ namespace systemproject
         {
             InitializeComponent();
         }
+
+        private void loginbutton_Click(object sender, EventArgs e)
+        {
+            logindashboard logindashboard = new logindashboard();
+            logindashboard.Show();
+            this.Hide();
+        }
+
+        private void logo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

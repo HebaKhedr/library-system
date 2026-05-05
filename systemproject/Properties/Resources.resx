@@ -136,6 +136,9 @@
   <data name="860338-200" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\860338-200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="520-5203283_png-file-svg-attendance-icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\520-5203283_png-file-svg-attendance-icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="photo_6025819467272621122_y" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\photo_6025819467272621122_y.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -148,6 +151,9 @@
   <data name="photo_5996992462825655815_y1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\photo_5996992462825655815_y1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="520-5203283_png-file-svg-attendance-icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\520-5203283_png-file-svg-attendance-icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="photo_5996992462825655815_y" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\photo_5996992462825655815_y.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -156,9 +162,6 @@
   </data>
   <data name="images (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="add (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\add (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="book-management" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\book-management.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -181,6 +184,9 @@
   <data name="1000_F_380301202_FJOsSNqAKrIhDuPvE1Rih6v3FnVDnxRt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1000_F_380301202_FJOsSNqAKrIhDuPvE1Rih6v3FnVDnxRt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="1240352" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1240352.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="photo_6025819467272621122_y1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\photo_6025819467272621122_y.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -189,6 +195,12 @@
   </data>
   <data name="images (1) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\images (1) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5404928" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5404928.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="520-5203283_png-file-svg-attendance-icon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\520-5203283_png-file-svg-attendance-icon2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="photo_6025819467272621138_x" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\photo_6025819467272621138_x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -202,10 +214,10 @@
   <data name="unsplash_xR6siHgVKfo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\unsplash_xR6siHgVKfo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="5404928" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\5404928.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="add (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\add (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="1240352" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1240352.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="3441733-200" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3441733-200.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

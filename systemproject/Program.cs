@@ -16,7 +16,7 @@ namespace systemproject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Studentdashboard());
+            Application.Run(new logo());
         }
     }
 }

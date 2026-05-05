@@ -12,8 +12,9 @@ D:\Source_d\repos\systemproject\systemproject\obj\Debug\systemproject.exe
 D:\Source_d\repos\systemproject\systemproject\obj\Debug\systemproject.pdb
 D:\Source_d\repos\systemproject\systemproject\obj\Debug\systemproject.Attendancedashboard.resources
 D:\Source_d\repos\systemproject\systemproject\obj\Debug\systemproject.admindashboard.resources
-D:\Source_d\repos\systemproject\systemproject\bin\Debug\WinFormsApp1.dll
 D:\Source_d\repos\systemproject\systemproject\bin\Debug\System.Drawing.Common.dll
 D:\Source_d\repos\systemproject\systemproject\bin\Debug\WinFormsApp1.pdb
 D:\Source_d\repos\systemproject\systemproject\obj\Debug\systempr.025296E6.Up2Date
 D:\Source_d\repos\systemproject\systemproject\obj\Debug\systemproject.logo.resources
+D:\Source_d\repos\systemproject\systemproject\bin\Debug\QRCoder.dll
+D:\Source_d\repos\systemproject\systemproject\bin\Debug\QRCoder.xml
